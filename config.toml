@@ -1,0 +1,65 @@
+baseurl = "https://jesajah0/github.io/"
+title = "ZeitTakt"
+theme = "hugo-nederburg-theme"
+languageCode = "de"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[params]
+  slogan = "Die neuen Energien sind da"
+  description = "Describe your website" # meta description
+  author = "Jesajah0"
+#  authorLink = "https://appernetic.io/"
+#  bio = [
+#    "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+#  ]
+  copyright = [
+    "&copy; Creative Commons",
+    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
+  ]
+
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "goran@molnsys.com"
+
+  # Nav links in the side bar
+  [[menu.main]]
+  name = "Daheim"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Auskunft"
+  url = "about/"
+  weight = 2
+
+#  [[menu.main]]
+#  name = "Get in touch"
+#  url = "contact/"
+#  weight = 3
+
+# [params.social]
+# facebook      = "full profile url in facebook"
+# googleplus    = "full profile url in googleplus"
+# email         = "email@example.com"
+# twitter       = "full profile url in twitter"
+# linkedin      = "full profile url in linkedin"
+# stackoverflow = "full profile url in stackoverflow"
+# instagram     = "full profile url in instagram"
+# github        = "full profile url in github"
+# pinterest     = "full profile url in pinterest"
