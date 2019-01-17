@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ZeitTakt</title>
-    <link>https://example.org/post/</link>
+    <link>https://jesajah0/github.io/post/</link>
     <description>Recent content in Posts on ZeitTakt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sun, 05 Nov 2017 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jesajah0/github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mein Weckruf</title>
-      <link>https://example.org/post/work1/</link>
+      <link>https://jesajah0/github.io/post/work1/</link>
       <pubDate>Sun, 05 Nov 2017 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/post/work1/</guid>
+      <guid>https://jesajah0/github.io/post/work1/</guid>
       <description>&lt;p&gt;Vor einigen Jahren, erhielt ich meinen spirituellen Weckruf. Er kam in Form
 einer Erscheinung, bei der ich instinkiv wusste, was sie bedeuted.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Spacemacs für Nichtprogrammierer </title>
+      <link>https://jesajah0/github.io/post/orgmodebuero/</link>
+      <pubDate>Sun, 05 Nov 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://jesajah0/github.io/post/orgmodebuero/</guid>
+      <description>&lt;p&gt;Wie Spacemacs und Orgmode mir den Alltag im Büro erleichtern.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Musik zur Verbindung mit dem Kosmos</title>
-      <link>https://example.org/post/mana1/</link>
+      <link>https://jesajah0/github.io/post/mana1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/mana1/</guid>
+      <guid>https://jesajah0/github.io/post/mana1/</guid>
       <description>&lt;p&gt;Es gibt immer wieder Momente, wo ich mich freue, etwas Neues entdeckt zu haben.&lt;/p&gt;</description>
     </item>
     
